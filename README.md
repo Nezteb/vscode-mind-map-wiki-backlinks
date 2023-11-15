@@ -37,3 +37,4 @@ Represent code/architecture as hand-built graphs that lives in a language-agnost
 - https://github.com/microsoft/vscode-extension-samples
 - https://www.typefox.io/blog/using-sprotty-in-vs-code-extensions/
 
+Also see [the Yeoman generated README here](./GENERATED_README.md).
