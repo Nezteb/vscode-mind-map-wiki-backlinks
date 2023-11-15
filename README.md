@@ -16,13 +16,20 @@ Represent code/architecture as hand-built graphs that lives in a language-agnost
 
 ### References
 
-- https://github.com/Pjaerr/Code-Flow-Extension
-  - https://github.com/Pjaerr/Code-Flow-Extension/issues/42
-  - https://github.com/Pjaerr/Code-Flow-Extension/issues/45
-- https://github.com/kortina/vscode-markdown-notes
-  - https://github.com/kortina/vscode-markdown-notes/issues/198
-- https://github.com/anas-araid/vscode-infinite-workspace
-- https://github.com/tintinweb/vscode-inline-bookmarks
+- Original code flow extension:
+  - https://github.com/Pjaerr/Code-Flow-Extension
+    - https://github.com/Pjaerr/Code-Flow-Extension/issues/42
+    - https://github.com/Pjaerr/Code-Flow-Extension/issues/45
+- VS Code markdown notes (does what I want, but only for markdown files)
+  - https://github.com/kortina/vscode-markdown-notes
+    - https://github.com/kortina/vscode-markdown-notes/issues/198
+- A cool concept to consider:
+  - https://github.com/anas-araid/vscode-infinite-workspace
+- A similar extension for inline bookmarks, but no linking:
+  - https://github.com/tintinweb/vscode-inline-bookmarks
+- VS Code Relative Filepath Links Broken
+  - https://github.com/microsoft/vscode/issues/181435
+  - https://github.com/microsoft/vscode/issues/189382
 
 ### Extension Dev
 
