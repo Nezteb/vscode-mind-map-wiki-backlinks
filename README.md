@@ -2,6 +2,8 @@
 
 Original idea/motivation: https://nitter.net/Nezteb/status/1648148867173715970 (though the original idea didn't include the wiki backlinks in comments)
 
+There are many "visualize X piece of a project in code" but none where X is "docs/comments/second-brain".
+
 Represent code/architecture as hand-built graphs that lives in a language-agnostic way alongside the code.
 
 ### Random Ideas / Questions
@@ -27,9 +29,12 @@ Represent code/architecture as hand-built graphs that lives in a language-agnost
   - https://github.com/anas-araid/vscode-infinite-workspace
 - A similar extension for inline bookmarks, but no linking:
   - https://github.com/tintinweb/vscode-inline-bookmarks
-- VS Code Relative Filepath Links Broken
+- VS Code relative file link are apparently broken:
   - https://github.com/microsoft/vscode/issues/181435
   - https://github.com/microsoft/vscode/issues/189382
+- Commercial products:
+  - https://www.codesee.io/
+  - https://appmap.io/
 
 ### Extension Dev
 
