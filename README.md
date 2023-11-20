@@ -1,6 +1,8 @@
 # VS Code Wiki Backlinks and Mind Maps
 
-Original idea/motivation: https://nitter.net/Nezteb/status/1648148867173715970 (though the original idea didn't include the wiki backlinks in comments)
+[Original idea/motivation Tweet](https://nitter.net/Nezteb/status/1648148867173715970) (though the original idea didn't include the wiki backlinks in comments)
+
+You remember [the old "this is why you shouldn't interrupt a programmer" comic](https://web.archive.org/web/20131101003403/https://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/)?
 
 There are many "visualize X piece of a project in code" but none where X is "docs/comments/second-brain".
 
@@ -12,7 +14,7 @@ Represent code/architecture as hand-built graphs that lives in a language-agnost
   - Probably a separate project entirely
   - Separate CLI tool with VS Code extension to use it?
   - Pure `git` integration (+ GitHub/GitLab connectors)
-- CMD+click to follow wiki-style links (with line/row/col numbers?)
+- CMD+click to follow wiki-style links (with line/row/col numbers, or hash of line?)
 - Table view of nodes that link to/from currently viewed node, support CMD+CLICK
 - Eclipse Sprotty vs Mermaid.js for rendering graphs (with comments)?
 
@@ -22,7 +24,9 @@ Represent code/architecture as hand-built graphs that lives in a language-agnost
   - https://github.com/Pjaerr/Code-Flow-Extension
     - https://github.com/Pjaerr/Code-Flow-Extension/issues/42
     - https://github.com/Pjaerr/Code-Flow-Extension/issues/45
-- VS Code markdown notes (does what I want, but only for markdown files)
+- Code Tour (does what I want, but doesn't store the "tours" as regular text/comments)
+  - https://github.com/microsoft/codetour
+- VS Code markdown notes (these do what I want, but only for markdown files)
     - https://github.com/foambubble/foam
       - https://github.com/foambubble/foam/issues/1307
     - https://github.com/dendronhq/dendron
