@@ -24,7 +24,9 @@ Represent code/architecture as hand-built graphs that lives in a language-agnost
     - https://github.com/Pjaerr/Code-Flow-Extension/issues/45
 - VS Code markdown notes (does what I want, but only for markdown files)
     - https://github.com/foambubble/foam
-    - https://github.com/dendronhq/dendron 
+      - https://github.com/foambubble/foam/issues/1307
+    - https://github.com/dendronhq/dendron
+      - https://github.com/dendronhq/dendron/issues/3963
     - https://github.com/kortina/vscode-markdown-notes
       - https://github.com/kortina/vscode-markdown-notes/issues/198
 - A cool concept to consider:
