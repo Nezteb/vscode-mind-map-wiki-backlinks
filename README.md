@@ -43,6 +43,7 @@ Represent code/architecture as hand-built graphs that lives in a language-agnost
 - Commercial products:
   - https://www.codesee.io/
   - https://appmap.io/
+  - https://web.archive.org/web/20210705001921/https://marketplace.visualstudio.com/items?itemName=Adaptilab.grok (gone/defunct)
 
 ### Extension Dev
 
